@@ -12,6 +12,7 @@
 		1340B1E91F718AF500D28D04 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1340B1E71F718AF500D28D04 /* Main.storyboard */; };
 		1340B1EB1F718AF500D28D04 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1340B1EA1F718AF500D28D04 /* Assets.xcassets */; };
 		1340B1EE1F718AF500D28D04 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1340B1EC1F718AF500D28D04 /* LaunchScreen.storyboard */; };
+		1340B1F61F718B4600D28D04 /* CachingPageViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1340B1F51F718B4600D28D04 /* CachingPageViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		1340B1EA1F718AF500D28D04 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		1340B1ED1F718AF500D28D04 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		1340B1EF1F718AF500D28D04 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		1340B1F51F718B4600D28D04 /* CachingPageViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CachingPageViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 			children = (
 				1340B1E31F718AF500D28D04 /* AppDelegate.swift */,
 				1340B1E51F718AF500D28D04 /* ViewController.swift */,
+				1340B1F51F718B4600D28D04 /* CachingPageViewController.swift */,
 				1340B1E71F718AF500D28D04 /* Main.storyboard */,
 				1340B1EA1F718AF500D28D04 /* Assets.xcassets */,
 				1340B1EC1F718AF500D28D04 /* LaunchScreen.storyboard */,
@@ -138,6 +141,7 @@
 			files = (
 				1340B1E61F718AF500D28D04 /* ViewController.swift in Sources */,
 				1340B1E41F718AF500D28D04 /* AppDelegate.swift in Sources */,
+				1340B1F61F718B4600D28D04 /* CachingPageViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
